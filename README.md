@@ -15,5 +15,8 @@
 ### Ссылки на плейлист
 #### Ссылка #1(github.com)
 https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LinIPTV.m3u
-#### Ссылка #2(bit.ly)
-    https://bit.ly/LinIPTV-1
+#### Ссылка #2(bit.ly) на гитхаб
+https://bit.ly/LinIPTV-1
+#### Ссылка #2(GitFlic)
+
+#### Ссылка #3(bit.ly) на gitflic
