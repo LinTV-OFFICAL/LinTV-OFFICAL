@@ -14,6 +14,6 @@
 4. Украина🇺🇦(В Разработке)(После мирного договора добавлю в общий плейлист)
 ### Ссылки на плейлист
 #### Ссылка #1(github.com)
-     https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LinIPTV.m3u
+https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LinIPTV.m3u
 #### Ссылка #2(bit.ly)
     https://bit.ly/LinIPTV-1
