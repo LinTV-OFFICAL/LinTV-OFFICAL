@@ -12,6 +12,5 @@
 4. Украина🇺🇦(В Разработке)(Когда нибудь добавлю их на сайт )
 #### Ссылки на сайт
 1. СТАБИЛЬНЫЙ (Github)
-   - First nested list item
-     - Second nested list item
-         - Second nested list item
+   - RU [liniptv.2bd.net](liniptv.2bd.net)
+     - UA
