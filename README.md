@@ -12,5 +12,5 @@
 4. Украина🇺🇦(В Разработке)(Когда нибудь добавлю их на сайт )
 #### Ссылки на сайт
 1. СТАБИЛЬНЫЙ (Github)
-   - RU [liniptv.2bd.net](liniptv.2bd.net)
+   - RU [liniptv.2bd.net](https://liniptv.2bd.net)
      - UA
