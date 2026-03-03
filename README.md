@@ -11,6 +11,6 @@
 3. Казахстан🇰🇿(В Разработке)
 #### Ссылки на сайт
 1. ОСНОВНОЙ И СТАБИЛЬНЫЙ (Github)
-RU,BY,KZ [liniptv.2bd.net](https://liniptv.2bd.net)
-2. ХОСТИНГ(SPRINTHOSTING) РЕКОМЕНДУЮ ИМ ПОЛЬЗОВАТЬСЯ ЕСЛИ НЕ ДОСТУПЕН ОСНОВНОЙ
+  - RU,BY,KZ [liniptv.2bd.net](https://liniptv.2bd.net)
+3. ХОСТИНГ(SPRINTHOSTING) РЕКОМЕНДУЮ ИМ ПОЛЬЗОВАТЬСЯ ЕСЛИ НЕ ДОСТУПЕН ОСНОВНОЙ
 
